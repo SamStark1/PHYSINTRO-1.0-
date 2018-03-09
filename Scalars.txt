@@ -1,0 +1,1 @@
+	Scalars are quantities that are fully described by a magnitude (or numerical value) alone.

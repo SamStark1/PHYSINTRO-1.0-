@@ -1,0 +1,2 @@
+	The energy possessed by a body due to its motion.
+	Formula for Kinetic energy K.E = 1/2 m * v^2

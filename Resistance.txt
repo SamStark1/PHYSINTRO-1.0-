@@ -1,0 +1,1 @@
+	Resistivity is a property of a type of material, but resistance is a property of a certain piece of that material. The resistance of a piece of conductor depends on its length L, area A, and resistivity. It's unit is 'ohm'

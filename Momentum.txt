@@ -1,0 +1,2 @@
+	Momentum of a body is the quantity of a motion, it possesses due to its mass and velocity. It is a vector quantity. 
+	SI unit is kgms^-1. 	Formula P = m * v".

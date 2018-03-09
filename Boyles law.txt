@@ -1,0 +1,2 @@
+	A relationship of volume with external pressure was given by Boyle's in the form of law. This law is known as Boyle's Law which states, For a given mass of a gas the volume of the gas is inversely proportional to its pressure provided the temperature is kept constant.
+	V = K / P   Or  P*V = K where k is constant."

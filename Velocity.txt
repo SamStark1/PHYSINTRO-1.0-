@@ -1,0 +1,1 @@
+	The rate of change of displacement per unit time is called velocity. It is vector quantity. Its SI Unit is metres per second (m/s) Denoted by V. its formula is v=s/t.

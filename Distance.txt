@@ -1,0 +1,2 @@
+	Distance is the total movement of an object without any regard to direction. It is a scalar quantity.
+		SI Unit is  meter (m)	It is denoted by : d 	Formula d=v*t.

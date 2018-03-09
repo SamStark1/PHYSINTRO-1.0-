@@ -1,0 +1,1 @@
+	Voltage, also called electromotive force, is a quantitative expression of the potential difference in charge between two points in an electrical field.	It is denoted by V

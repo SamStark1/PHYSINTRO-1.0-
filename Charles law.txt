@@ -1,0 +1,2 @@
+	We know that everything expand on heating and contract cooling. This change in volume is small in liquids and solids but gases exhibit enormous changes due to the presence of large intermolecular spaces.
+	V = K*T 	OR	V / T = K

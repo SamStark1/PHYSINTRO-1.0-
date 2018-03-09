@@ -1,0 +1,2 @@
+	Centrifugal takes place along the radius of the circle from the center out towards the object. For centripetal, it is the opposite, taking place also along the radius of the circle, but from the object in towards the center.
+	Centrifugal force = (mass of the object)(velocity of the object)^2/ radius      Formula Fg = mv^2/ r

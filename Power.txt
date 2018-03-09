@@ -1,0 +1,1 @@
+	Power is defined as the rate of doing work per unit time. It is a scalar quantity and SI unit is Watt. The formula of power is: P = W/t 

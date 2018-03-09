@@ -1,0 +1,1 @@
+	A Time period is the time needed for one complete cycle of vibration to pass a given point. As the frequency of a wave increases, the time period of the wave decreases. It is denoted by 't'

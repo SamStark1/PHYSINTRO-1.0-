@@ -1,0 +1,2 @@
+	When a net force acts on a body, it produces acceleration in the body in the direction of net force. The magnitude of this acceleration is directly proportional to the net force acting on the body and inversly proportional to its mass. 
+	Formula F = m * a

@@ -1,0 +1,2 @@
+	Amount of substance is a standards-defined quantity that measures the size of an ensemble of elementary entities, such as atoms, molecules, electrons, and other particles. It is sometimes referred to as chemical amount.
+	SI Unit : mole (mol)   Denoted by : n.

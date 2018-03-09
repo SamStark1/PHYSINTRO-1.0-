@@ -1,0 +1,1 @@
+	Vectors are quantities that are fully described by both a magnitude and a direction.

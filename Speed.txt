@@ -1,0 +1,1 @@
+	Speed is distance traveled by a body per unit time. It is scalar quantity. SI Unit is meters per second (m/s), Denoted by : 'r' or sometimes 'v'.  r = d / t.

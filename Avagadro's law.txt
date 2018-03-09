@@ -1,0 +1,2 @@
+	In 1811, a scientist Avogadro's established a relationship between the volume and number of molecules of the gas, which is known as Avogadro's law. Equal volume of all gases contains equal number of molecules under the same condition of temperature & pressure.
+	Formula of avagadro's law V = K*n

@@ -1,0 +1,2 @@
+	Frequency describes the number of waves that pass a fixed place in a given amount of time.
+	The formula to find Frequency is: f = 1/t.

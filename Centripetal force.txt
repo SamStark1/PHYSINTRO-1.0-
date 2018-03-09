@@ -1,0 +1,2 @@
+	The Centripetal ('center-seeking') force is the force which keeps an object moving along the axis of rotation of a curved path. This force always acts towards the center.
+	Centripetal force = (mass of the object)(velocity of the object)^2/ radius      Formula Fc = mv^2/ r

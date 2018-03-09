@@ -1,0 +1,3 @@
+	It is textd as the distance covered by a body in particular direction. It is vector quantity.
+		SI Unit is meter (m) It is denoted by : s	
+			Formula  s=v*t.

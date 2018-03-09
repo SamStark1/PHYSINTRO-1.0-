@@ -1,0 +1,1 @@
+	Time in physics is defined by its measurement: time is what a clock reads. In classical, non-relativistic physics it is a scalar quantity and, like length, mass, and charge, is usually described as a fundamental quantity. SI Unit  : second (s) Symbol : t
